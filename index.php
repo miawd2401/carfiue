@@ -22,7 +22,7 @@ if(isset($_SESSION['author_id'])){
 <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Kufa - Personal Portfolio HTML5 Template</title>
+        <title>Fahim Hossain Munna - Personal Portfolio HTML Template</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
